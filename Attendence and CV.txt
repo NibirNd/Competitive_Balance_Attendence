@@ -1,0 +1,12 @@
+Attendence	CV	RGDP	Revenue	Business Cycle	Recession
+34.151	0.36	"36,955.32"	"2,479"	Expansionary	0
+35.273	0.24	"39,109.24"	"2,515"	Expansionary	0
+34.601	0.33	"39,317.53"	"2,900"	Recessionary	1
+35.921	0.34	"40,067.91"	"2,946"	Recessionary	1
+36.631	0.36	"41,322.34"	"3,897"	Expansionary	0
+36.176	0.31	"41,283.17"	"4,403"	Expansionary	0
+"36,490"	0.29	"42,629.23"	"4,865"	Expansionary	0
+"35,838"	0.37	"42,644.36"	"5,301"	Expensionary	0
+"38,495"	0.36	"44,093.93"	"5,440"	Recessionary	1
+"38,484"	0.39	"44,296.25"	"5,843"	Expansionary	0
+"29,821"	0.33	"44,274.96"	"5,134"	Recessionary	1
